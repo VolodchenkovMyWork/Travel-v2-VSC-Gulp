@@ -99,7 +99,6 @@ h6 {
 
 body {
   background: #e8e8e8;
-  border: 1px solid red;
 }
 
 .main-content {
@@ -108,7 +107,6 @@ body {
   margin: 0 auto;
   margin: 106px auto 106px;
   background: url(../img/two-lines.png) 0 0 no-repeat;
-  border: 1px solid green;
 }
 
 .main-content__header {
@@ -116,7 +114,6 @@ body {
   margin: 0 auto;
   padding: 0 45px;
   text-align: center;
-  border: 1px solid yellow;
 }
 
 .main-content__header h1 {
@@ -150,7 +147,7 @@ body {
   max-width: 750px;
   margin: 0 auto;
   text-align: left;
-  border: 1px solid blue;
+  padding: 0 45px;
 }
 
 .main-content__content p {
@@ -171,7 +168,6 @@ body {
   color: #273d46;
   line-height: 36px;
   padding-bottom: 59px;
-  border: 1px solid black;
 }
 
 .main-content__list li {
